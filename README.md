@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, meu nome é Jair Souza</h1>
 <h3 align="center">Sou estudante de Sistemas de Informação no IFBA, campus Feira de Santana</h3>
 
-- 🎯 Atualmente estou apredendo **Ciência** e **Análise** de dados.
+- 🎯 Profissional em formação na área de dados, com sólidos conhecimentos em Engenharia de Dados e Ciência de Dados.
 - 🚀 Apaixonado por resolução de problemas e criação de novas ideias utilizando dados.
 - 📫 Email para contato: **jairdev2004@gmail.com**
 
